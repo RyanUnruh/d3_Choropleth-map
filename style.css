@@ -103,7 +103,7 @@ g {
   grid-template-columns: 1fr 1fr;
   align-items: center;
   width: 90%;
-  height: 90vh;
+  height: 40vh;
 }
 
 #rightSide {
